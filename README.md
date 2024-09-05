@@ -48,6 +48,7 @@ O script verifica a hora atual e compara com o horário de funcionamento do rest
 
 * A ferramenta é gratuita e pode ser usada por qualquer pessoa.
 * Sinta-se à vontade para contribuir com o projeto ou enviar sugestões de melhorias.
+* https://hamburgeria-dev.vercel.app
 
 ## Licença
 
